@@ -4,6 +4,8 @@ image: "jamieface_0926.jpg"
 links:
   - label: GitHub
     url: "https://github.com/jamiesash"
+  - label: CV
+    url: "CV_20220406.html"
 output: 
    postcards::trestles
 ---
