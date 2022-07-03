@@ -12,40 +12,29 @@ output:
    postcards::trestles
 ---
 
-```{r, echo=FALSE, fig.width=8, fig.height = 2.2}
-x = seq(0, 20, 0.1)
-y = x * pi
-y = sin(x)
-plot(x, y, pch = 20, axes = FALSE, xlab = "", ylab = "")
-```
-
 ## About me 
 
 I'm James Ash but I go by Jamie. I'm a master's student in the chemical oceanography
 department at the University of Hawaii. I spend my time working, surfing, 
 playing board games, and paddling for an outrigger canoe team. 
 
-```{r, echo=FALSE, fig.width=8, fig.height = 2.2}
-plot(x, y, pch = 20, axes = FALSE, xlab = "", ylab = "")
-```
-
 ## CV
  
 ### Education
 
-**University of Hawaii at Manoa** \hfill                                        Honolulu, HI  
-Candidate for Masters in Chemical Oceanography \hfill                           GPA: 3.88  
-Coursework: Bayesian Statistics, Advanced Statistics in R, \hfill               2018 - Present     
+**University of Hawaii at Manoa**                                       Honolulu, HI  
+Candidate for Masters in Chemical Oceanography                            GPA: 3.88  
+Coursework: Bayesian Statistics, Advanced Statistics in R,               2018 - Present     
 Statistics and Data Analysis, Earth Systems and Global Change   
 
-**Northeastern University** \hfill                                              Boston, MA  
-Bachelor of Science in Marine Biology, Minor in Chemistry \hfill                GPA: 3.2  
-Coursework: Biostatistics, Organic Chemistry, Physical Chemistry \hfill         2014 - 2017  
+**Northeastern University**                                           Boston, MA  
+Bachelor of Science in Marine Biology, Minor in Chemistry               GPA: 3.2  
+Coursework: Biostatistics, Organic Chemistry, Physical Chemistry         2014 - 2017  
 Activities: NEU Running Club, NU Planeswalkers Club
 
-**University of Rhode Island** \hfill                   								        Kingston, RI  
-Candidate for Bachelor of Science in Biology \hfill	    				  	            GPA: 3.51  
-Relevant Coursework: Chemistry, Physics, Genetics, Ecology \hfill 					    2011 - 2013  
+**University of Rhode Island**                    								        Kingston, RI  
+Candidate for Bachelor of Science in Biology 	    				  	            GPA: 3.51  
+Relevant Coursework: Chemistry, Physics, Genetics, Ecology  					    2011 - 2013  
 Activities: Literature Club
 
 ### Experience: 
