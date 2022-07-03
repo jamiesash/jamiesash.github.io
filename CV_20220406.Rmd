@@ -1,6 +1,13 @@
 ---
 title: "Jamie Ash"
 image: "jamieface_0926.jpg"
+links:
+  - label: Home
+    url: "index.html"
+  - label: CV
+    url: "CV_20220406.html"
+  - label: GitHub
+    url: "https://github.com/jamiesash"
 output: 
    postcards::trestles
 ---
@@ -9,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Adress and contact info
+### Address and contact info
 
 **3721 Crater Road Apt. A, Honolulu, HI 96816, (561) 319-8193**
 

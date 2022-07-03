@@ -2,10 +2,12 @@
 title: "Jamie Ash"
 image: "jamieface_0926.jpg"
 links:
-  - label: GitHub
-    url: "https://github.com/jamiesash"
+  - label: Home
+    url: "index.html"
   - label: CV
     url: "CV_20220406.html"
+  - label: GitHub
+    url: "https://github.com/jamiesash"
 output: 
    postcards::trestles
 ---
