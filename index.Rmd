@@ -8,15 +8,117 @@ links:
     url: "https://twitter.com/"
   - label: GitHub
     url: "https://github.com/jamiesash"
-output:
-  postcards::trestles
+output: 
+   postcards::trestles
 ---
- 
+
+```{r, echo=FALSE, fig.width=8, fig.height = 2.2}
+x = seq(0, 20, 0.1)
+y = x * pi
+y = sin(x)
+plot(x, y, pch = 20, axes = FALSE, xlab = "", ylab = "")
+```
+
+## About me 
+
 I'm James Ash but I go by Jamie. I'm a master's student in the chemical oceanography
-department at the University of HAwaii. I spend my time working, surfing, 
-playing board games, and paddling for an outrigger conoe team. 
+department at the University of Hawaii. I spend my time working, surfing, 
+playing board games, and paddling for an outrigger canoe team. 
 
-## Resume
+```{r, echo=FALSE, fig.width=8, fig.height = 2.2}
+plot(x, y, pch = 20, axes = FALSE, xlab = "", ylab = "")
+```
+
+## CV
+ 
+### Education
+
+**University of Hawaii at Manoa** \hfill                                        Honolulu, HI  
+Candidate for Masters in Chemical Oceanography \hfill                           GPA: 3.88  
+Coursework: Bayesian Statistics, Advanced Statistics in R, \hfill               2018 - Present     
+Statistics and Data Analysis, Earth Systems and Global Change   
+
+**Northeastern University** \hfill                                              Boston, MA  
+Bachelor of Science in Marine Biology, Minor in Chemistry \hfill                GPA: 3.2  
+Coursework: Biostatistics, Organic Chemistry, Physical Chemistry \hfill         2014 - 2017  
+Activities: NEU Running Club, NU Planeswalkers Club
+
+**University of Rhode Island** \hfill                   								        Kingston, RI  
+Candidate for Bachelor of Science in Biology \hfill	    				  	            GPA: 3.51  
+Relevant Coursework: Chemistry, Physics, Genetics, Ecology \hfill 					    2011 - 2013  
+Activities: Literature Club
+
+### Experience: 
+
+**Chemical Oceanography Department** \hfill                                         Honolulu, HI  
+*Graduate Assistant* \hfill                                                     01/2019 - Present  
+Characterization of chlorophyll blooms in the North East Pacific Ocean utilizing 18 years of satellite chlorophyll (CHL), sea
+level anomaly (SLA), and finite sized laplacian exponent (FSLE) data. Throughout this project, I have become skilled in the use of data processing and analysis techniques applicable across all fields of oceanography.
+
+**UHM Oceanography Department** \hfill                        						      Honolulu, HI  
+*Teaching Assistant* \hfill                                          						01/2018 - Present  
+Assisted in teaching responsibilities for Earth System Science Databases (OCN 463), Science of the Sea lab (OCN 201L), and Aquatic Pollution (OCN 320) over four semesters. Provided tutorials for weekly lab experiments, held office hours for Python tutorials, offered feedback on scientific writing mechanics, and graded weekly papers. 
+
+**RCUH Oceanography Department** \hfill                                         Honolulu, HI  
+*Laboratory Assistant* \hfill								                                    01/2017 - 01/2019  
+Assist in ongoing air-sea gas exchange experiments including; Influence of surfactants on air-sea gas exchange, and Influence of wind and bottom generated turbulence on air-sea gas exchange in shallow water environments. Participate in related research cruises in the Baltic Sea and Florida Everglades. Participated in multiple one week trips to the Florida Everglades National Park to maintain and upkeep time series equipment. The purpose of the time series measurements are to capture environmental parameters at water flow choke points between the mangrove estuary and the coastal ocean for quantifying inorganic carbon flux in mangrove systems.
+
+\newpage
+
+**Northeastern Marine Science** \hfill                  							          Center Nahant, MA  
+*Research Assistant* \hfill                         								            02/2016 - 05/2016  
+I designed projects and conducted experiments on the development of new solid-state pH sensor technology to be used in the analysis of chemical processes undergone during coral skeleton formation. Kept detailed notes and a logbook of ongoing experiments. Adjusted and presented data for weekly laboratory meetings. Performed chemistry lab related tasks such as solution preparation and glassware maintenance.
+
+**Woods Hole Oceanographic Institute** \hfill 							                    Woods Hole, MA  
+*Laboratory Technician* \hfill								                                  01/2016 - 08/2016  
+Helped structure and design experiments related to carbonate chemistry and ocean acidification. I worked to develop isotope proxies for carbon, and oxygen to be used in mapping the pH history of the world’s ocean by forming carbonate (CO3) under varying environmental conditions in a laboratory setting. Maintained detailed notes, and lab logbook. Resolved problems by troubleshooting, and using data analysis to choose efficient corrective steps. Kept laboratory supplies ready by taking inventory and placing orders. Supported laboratory staff by maintaining and organizing the work space.
+
+**Northeastern Dept. of Marine & Environmental Science** \hfill					        Boston, MA  
+*Laboratory technician* \hfill								                                  09/2015 - 12/2015  
+Assisted professor with ongoing research in insect immunity and social structure. Responsibilities included organizing experiment tools and supplies; ensuring laboratory cleanliness and maintaining detailed work log.
+
+### Research Cruises:
+
+**Shark River Research Cruise** \hfill                    								      Flamingo, FL  
+*RCUH Research Assistant* \hfill	                           									  11/2018  
+The Shark River Research cruise’s purpose was to evaluate the flux of inorganic carbon from a Florida
+mangrove ecosystem to the coastal ocean. Personally responsible for underway measurement operation and
+Setup.
+
+**Baltic Gas Exchange Research Cruise**	\hfill 						                      Kiel, Germany  
+*RCUH Research Assistant* \hfill                       							            06/2018 and 09/2018  
+The Baltic Gas Exchange research cruise’s purpose was to address the uncertainty of surfactant’s effects on air-sea gas exchange. Personal role was to set up, and operate onboard equipment relevant to underway SF6 Measurements.
+
+**SPURS2 Research Cruise** \hfill	                            							    San Diego, CA  
+*UCSD-UNOLS Volunteer* \hfill	                                  							  10/14/2017 - 11/17/2017  
+SPURS2 mission is to study the salinity processes of the upper ocean in the eastern Tropical Pacific. Personally responsible for underway CTD deployment, and data management using R software.
+
+### Synergistic and Outreach Activities:
+
+**K-Bay Gas Ex** \hfill	                                  							        Kaneohe Bay, Hawaii  
+*Masters Student* \hfill                                  											07/2019  
+Volunteered in a two week long experiment that included multiple dual tracer releases. Purpose of the experiment was to parameterize air-sea CO2 fluxes in a shallow coral reef ecosystem.
+
+\newpage
+
+### Awards:
+
+*Florida Bright Futures Scholarship:* Florida Academic Scholars. Requires a minimum weighted GPA of 3.5, an ACT composite score of 29 or SAT combined reading/math score of 1290, and 100 volunteer service hours. Awarded 85% coverage tuition at a Florida university, or an equivalent waiver applies to out of state tuition.
+
+*University of Rhode Island Centennial Scholarship:* Minimum GPA: 3.4, minimum test scores: ACT 26, SAT 1200. Awarded $13,000 a year from 2011 to 2013.
+
+*Northeastern University Phi Theta Kappa Scholarship:* Eligible to transfer students coming from a state university or two-year college with at least 32 credit hours and a minimum GPA of 3.50. Awarded roughly $10,000 a semester for 2014 through 2017.
+
+*Federal Work-Study:* Part-time jobs funding for undergraduate students. Awarded $1,500 a semester from 2011-2017.
+
+*Federal Pell Grants:* Need based grant awarded from 2011-2017 for admission at both University of Rhode Island and Northeastern University. Award amounts varied across years.
+
+### Relevant Skill Set:
+
+**Lab Experience:** Gas Spectronomy (GC-ECD), Cavity Ring Down Spectroscopy, IR Spectroscopy, Fluorescence Spectroscopy, Electroplating, Chemistry Lab Standards
+
+**Computer Experience:** R, Python, Matlab, Unix, Microsoft Excel
 
 
-## References
+
+
