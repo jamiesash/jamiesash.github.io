@@ -8,8 +8,6 @@ links:
     url: "https://twitter.com/"
   - label: GitHub
     url: "https://github.com/jamiesash"
-  - label: Email
-    url: "jamesash@hawaii.edu"
 output:
   postcards::trestles
 ---
@@ -22,4 +20,3 @@ playing board games, and paddling for an outrigger conoe team.
 
 
 ## References
-
