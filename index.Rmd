@@ -1,0 +1,25 @@
+---
+title: "Jamie Ash"
+image: "jamieface_0926.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/jamiesash"
+  - label: Email
+    url: "jamesash@hawaii.edu"
+output:
+  postcards::trestles
+---
+ 
+I'm James Ash but I go by Jamie. I'm a master's student in the chemical oceanography
+department at the University of HAwaii. I spend my time working, surfing, 
+playing board games, and paddling for an outrigger conoe team. 
+
+## Resume
+
+
+## References
+
