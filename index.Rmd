@@ -48,8 +48,6 @@ Assisted in teaching responsibilities for Earth System Science Databases (OCN 46
 *Laboratory Assistant* \hfill								                                    01/2017 - 01/2019  
 Assist in ongoing air-sea gas exchange experiments including; Influence of surfactants on air-sea gas exchange, and Influence of wind and bottom generated turbulence on air-sea gas exchange in shallow water environments. Participate in related research cruises in the Baltic Sea and Florida Everglades. Participated in multiple one week trips to the Florida Everglades National Park to maintain and upkeep time series equipment. The purpose of the time series measurements are to capture environmental parameters at water flow choke points between the mangrove estuary and the coastal ocean for quantifying inorganic carbon flux in mangrove systems.
 
-\newpage
-
 **Northeastern Marine Science** \hfill                  							          Center Nahant, MA  
 *Research Assistant* \hfill                         								            02/2016 - 05/2016  
 I designed projects and conducted experiments on the development of new solid-state pH sensor technology to be used in the analysis of chemical processes undergone during coral skeleton formation. Kept detailed notes and a logbook of ongoing experiments. Adjusted and presented data for weekly laboratory meetings. Performed chemistry lab related tasks such as solution preparation and glassware maintenance.
@@ -78,25 +76,9 @@ The Baltic Gas Exchange research cruise’s purpose was to address the uncertain
 *UCSD-UNOLS Volunteer* \hfill	                                  							  10/14/2017 - 11/17/2017  
 SPURS2 mission is to study the salinity processes of the upper ocean in the eastern Tropical Pacific. Personally responsible for underway CTD deployment, and data management using R software.
 
-### Synergistic and Outreach Activities:
-
 **K-Bay Gas Ex** \hfill	                                  							        Kaneohe Bay, Hawaii  
 *Masters Student* \hfill                                  											07/2019  
 Volunteered in a two week long experiment that included multiple dual tracer releases. Purpose of the experiment was to parameterize air-sea CO2 fluxes in a shallow coral reef ecosystem.
-
-\newpage
-
-### Awards:
-
-*Florida Bright Futures Scholarship:* Florida Academic Scholars. Requires a minimum weighted GPA of 3.5, an ACT composite score of 29 or SAT combined reading/math score of 1290, and 100 volunteer service hours. Awarded 85% coverage tuition at a Florida university, or an equivalent waiver applies to out of state tuition.
-
-*University of Rhode Island Centennial Scholarship:* Minimum GPA: 3.4, minimum test scores: ACT 26, SAT 1200. Awarded $13,000 a year from 2011 to 2013.
-
-*Northeastern University Phi Theta Kappa Scholarship:* Eligible to transfer students coming from a state university or two-year college with at least 32 credit hours and a minimum GPA of 3.50. Awarded roughly $10,000 a semester for 2014 through 2017.
-
-*Federal Work-Study:* Part-time jobs funding for undergraduate students. Awarded $1,500 a semester from 2011-2017.
-
-*Federal Pell Grants:* Need based grant awarded from 2011-2017 for admission at both University of Rhode Island and Northeastern University. Award amounts varied across years.
 
 ### Relevant Skill Set:
 
