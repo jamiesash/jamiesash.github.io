@@ -2,10 +2,6 @@
 title: "Jamie Ash"
 image: "jamieface_0926.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
     url: "https://github.com/jamiesash"
 output: 
