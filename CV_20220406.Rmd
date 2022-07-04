@@ -6,6 +6,8 @@ links:
     url: "index.html"
   - label: CV
     url: "CV_20220406.html"
+  - label: Projects
+    url: "projects.html"
   - label: GitHub
     url: "https://github.com/jamiesash"
 output: 
@@ -41,8 +43,7 @@ Activities: Literature Club
 
 **Chemical Oceanography Department** \hfill                                         Honolulu, HI  
 *Graduate Assistant* \hfill                                                     01/2019 - Present  
-Characterization of chlorophyll blooms in the North East Pacific Ocean utilizing 18 years of satellite chlorophyll (CHL), sea
-level anomaly (SLA), and finite sized laplacian exponent (FSLE) data. Throughout this project, I have become skilled in the use of data processing and analysis techniques applicable across all fields of oceanography.
+Characterization of chlorophyll blooms in the North East Pacific Ocean utilizing 18 years of satellite chlorophyll (CHL), sea level anomaly (SLA), and finite sized laplacian exponent (FSLE) data. Throughout this project, I have become skilled in the use of data processing and analysis techniques applicable across all fields of oceanography.
 
 **UHM Oceanography Department** \hfill                        						      Honolulu, HI  
 *Teaching Assistant* \hfill                                          						01/2018 - Present  
@@ -50,15 +51,15 @@ Assisted in teaching responsibilities for Earth System Science Databases (OCN 46
 
 **RCUH Oceanography Department** \hfill                                         Honolulu, HI  
 *Laboratory Assistant* \hfill								                                    01/2017 - 01/2019  
-Assist in ongoing air-sea gas exchange experiments including; Influence of surfactants on air-sea gas exchange, and Influence of wind and bottom generated turbulence on air-sea gas exchange in shallow water environments. Participate in related research cruises in the Baltic Sea and Florida Everglades. Participated in multiple one week trips to the Florida Everglades National Park to maintain and upkeep time series equipment. The purpose of the time series measurements are to capture environmental parameters at water flow choke points between the mangrove estuary and the coastal ocean for quantifying inorganic carbon flux in mangrove systems.
+Assist in ongoing air-sea gas exchange experiments including; Influence of surfactants on air-sea gas exchange, and Influence of wind and bottom generated turbulence on air-sea gas exchange in shallow water environments. Participate in related research cruises in the Baltic Sea and Florida Everglades. Participated in multiple trips to the Florida Everglades National Park to maintain and upkeep time series equipment. The purpose of the time series measurements are to capture environmental parameters at water flow choke points between the mangrove estuary and the coastal ocean for quantifying inorganic carbon flux in mangrove systems.
 
 **Northeastern Marine Science** \hfill                  							          Center Nahant, MA  
 *Research Assistant* \hfill                         								            02/2016 - 05/2016  
-I designed projects and conducted experiments on the development of new solid-state pH sensor technology to be used in the analysis of chemical processes undergone during coral skeleton formation. Kept detailed notes and a logbook of ongoing experiments. Adjusted and presented data for weekly laboratory meetings. Performed chemistry lab related tasks such as solution preparation and glassware maintenance.
+I designed projects and conducted experiments on the development of new solid-state pH sensor technology to be used in the analysis of chemical processes undergone during coral skeleton formation. Kept detailed notes and a logbook of ongoing experiments. Adjusted and presented data for weekly laboratory meetings. 
 
 **Woods Hole Oceanographic Institute** \hfill 							                    Woods Hole, MA  
 *Laboratory Technician* \hfill								                                  01/2016 - 08/2016  
-Helped structure and design experiments related to carbonate chemistry and ocean acidification. I worked to develop isotope proxies for carbon, and oxygen to be used in mapping the pH history of the world’s ocean by forming carbonate (CO3) under varying environmental conditions in a laboratory setting. Maintained detailed notes, and lab logbook. Resolved problems by troubleshooting, and using data analysis to choose efficient corrective steps. Kept laboratory supplies ready by taking inventory and placing orders. Supported laboratory staff by maintaining and organizing the work space.
+Helped structure and design experiments related to carbonate chemistry and ocean acidification. I worked to develop isotope proxies for carbon, and oxygen to be used in mapping the pH history of the world’s ocean by forming carbonate (CO3) under varying environmental conditions in a laboratory setting. Maintained detailed notes, and lab logbook. Resolved problems by troubleshooting, and using data analysis to choose efficient corrective steps. 
 
 **Northeastern Dept. of Marine & Environmental Science** \hfill					        Boston, MA  
 *Laboratory technician* \hfill								                                  09/2015 - 12/2015  
