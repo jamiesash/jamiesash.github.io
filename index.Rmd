@@ -6,6 +6,8 @@ links:
     url: "index.html"
   - label: CV
     url: "CV_20220406.html"
+  - label: Projects
+    url: "projects.html"
   - label: GitHub
     url: "https://github.com/jamiesash"
 output: 
