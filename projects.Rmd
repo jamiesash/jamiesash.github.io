@@ -24,7 +24,7 @@ output:
 
 ## Background on eddies and fronts
 
-## Figure Place holders
+## Figures
 
 
 ```{r, echo=FALSE, fig.align='center', fig.show='hold', out.width='100%'}
