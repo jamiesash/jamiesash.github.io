@@ -1,0 +1,70 @@
+---
+title: "Jamie Ash"
+image: "jamieface_0926.jpg"
+links:
+  - label: Home
+    url: "index.html"
+  - label: CV
+    url: "CV_20220406.html"
+  - label: Projects
+    url: "projects.html"
+  - label: GitHub
+    url: "https://github.com/jamiesash"
+output: 
+   postcards::trestles
+---
+
+# Under Construction!!!
+
+## Project Summary
+
+## Background on CHL satellite signal
+
+## Background on Phytoplankton
+
+## Background on eddies and fronts
+
+## Figure Place holders
+
+
+```{r, echo=FALSE, fig.align='center', fig.show='hold', out.width='100%'}
+knitr::include_graphics('./img/2018_area_ts.png')
+```
+
+```{r, echo=FALSE, fig.align='center', fig.show='hold', out.width='100%'}
+knitr::include_graphics('./img/2018_magnitude_ts.png')
+```
+
+```{r, echo=FALSE, fig.align='center', fig.show='hold', out.width='100%'}
+knitr::include_graphics('./img/HPLC_CHL_CLIM.png')
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
